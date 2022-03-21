@@ -1,4 +1,3 @@
-
 LA CARPETA LLAMADA "IMAG" UNA VEZ DESCARGADA , RENOMBRALA CON EL NOMBRE "img" , AL SUBIRLA NO ME DEJABA PONER IMG , DA ERR
 TODAS LAS RUTAS SERAN REFERIDAS A LA CARPETA IMG NO A IMAG 
 LA CARPETA IMAG DEBERA SER NOMBRADA IMG
@@ -26,7 +25,7 @@ CUALQUIER DUDA YA SABES QUE ESTOY A TU LADO , NO ME SEAS CAPULLO "GRACIAS"
 10. añade una clase llamada "#main h1" modifica la letra a 35px
 11. añade un slelector de  "h2" y dentro de este pon la letra a 25 px
 12. pega este ultimo trozo de mediaqueries debajo :
-------------------------------------------------------------------------
+........................................................................
 @media only screen and (max-width: 600px) {                            |
     #main {                                                            |
         padding: 0 1%;                                                 |
@@ -52,7 +51,7 @@ iframe{                                                                |
 .imagenes {                                                            |
     width: 100%;                                                       |
 }                                                                      |
-------------------------------------------------------------------------
+........................................................................
 13. crea una classe llamada "#fother" y añade lo siguiente  :    
                                                                 - alineea el texto en el frente
                                                                 - agrega un color blanquecino a tu gusto
