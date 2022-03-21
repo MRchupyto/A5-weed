@@ -9,10 +9,10 @@ CUALQUIER DUDA YA SABES QUE ESTOY A TU LADO , NO ME SEAS CAPULLO "GRACIAS"
 - Primeros Pasos -
 
 1. crea la hoja de estilos y importa esta fuente : (https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap)
-2. crea un estiola en la hoja de "body" con un margen de (0) y pon al uso esta fuente {font-family: 'Quicksand', sans-serif;}
-3. crea la clase "#header" con una altura de 100vh y pon la imagen {wp2559457.jpg} de fondo
+2. crea un id en la hoja estilos "body" con un margen de (0) y pon al uso esta fuente {font-family: 'Quicksand', sans-serif;}
+3. crea la regla "#header" con una altura de 100vh y pon la imagen {wp2559457.jpg} de fondo
 4. añade en la clase #header : la posicion de la imagen en el centro y que cubra la hoja .
-5. crea una clase llamada "header h1" y añade los siguientes atributos : - letra blanca
+5. crea una regla llamada "header h1" y añade los siguientes atributos : - letra blanca
                                                                          - margen 0
                                                                          - un padding de 0 y 20
                                                                          - el tamaño de la fuente a 50
@@ -25,6 +25,7 @@ CUALQUIER DUDA YA SABES QUE ESTOY A TU LADO , NO ME SEAS CAPULLO "GRACIAS"
 10. añade una clase llamada "#main h1" modifica la letra a 35px
 11. añade un slelector de  "h2" y dentro de este pon la letra a 25 px
 12. pega este ultimo trozo de mediaqueries debajo :
+```css
 ........................................................................
 @media only screen and (max-width: 600px) {                            |
     #main {                                                            |
@@ -52,6 +53,7 @@ iframe{                                                                |
     width: 100%;                                                       |
 }                                                                      |
 ........................................................................
+```
 13. crea una classe llamada "#fother" y añade lo siguiente  :    
                                                                 - alineea el texto en el frente
                                                                 - agrega un color blanquecino a tu gusto
