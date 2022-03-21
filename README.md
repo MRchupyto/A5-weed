@@ -10,10 +10,13 @@ CUALQUIER DUDA YA SABES QUE ESTOY A TU LADO , NO ME SEAS CAPULLO "GRACIAS"
 - Primeros Pasos -
 
 1. Crea la hoja de estilos y importa esta fuente : (https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap)
-2. Crea un id en la hoja estilos "body" con un margen de (0) y pon al uso esta fuente {font-family: 'Quicksand', sans-serif;}
-3. Crea la regla "#header" con una altura de 100vh y pon la imagen {wp2559457.jpg} de fondo
-4. Añade en el id #header : la posicion de la imagen en el centro y que cubra la hoja .
-5. Crea una regla llamada "header h1" y añade los siguientes atributos : 
+2. Crea un id en la hoja estilos "body" con un margen de (0) y pon al uso esta fuente :
+```
+{font-family: 'Quicksand', sans-serif;}
+```
+4. Crea la regla "#header" con una altura de 100vh y pon la imagen {wp2559457.jpg} de fondo
+5. Añade en el id #header : la posicion de la imagen en el centro y que cubra la hoja .
+6. Crea una regla llamada "header h1" y añade los siguientes atributos : 
 
     - letra blanca
     - margen 0
@@ -57,17 +60,19 @@ iframe{                                                                |
 }                                                                      |
 ........................................................................
 ```
-13. crea una regla llamada "#fother" y añade lo siguiente  :    
-                                                                - alineea el texto en el frente
-                                                                - agrega un color blanquecino a tu gusto
-                                                                - establece un fondo negro
-                                                                - pon un padding "top" de 15px
-                                                                - pon un padding "bottom" de 15px
+13. crea una regla llamada "#fother" y añade lo siguiente  : 
+   
+    - alineea el texto en el frente
+    - agrega un color blanquecino a tu gusto
+    - establece un fondo negro
+    - pon un padding "top" de 15px
+    - pon un padding "bottom" de 15px
 
 14. crea un id llamado "flex" que contenga :
-                                                -  display: flex;
-                                                -  align-items: center;
-                                                -  justify-content: center;
+
+-  display: flex;
+-  align-items: center;
+-  justify-content: center;
 
 15. REVISA QUE LA HOJA DE ESTILOS ESTE CORRECTAMENTE ENLAZADA CON LA HOJA "INDEX.HTML"
 
