@@ -5,26 +5,27 @@ LA CARPETA IMAG DEBERA SER NOMBRADA IMG
 [REVISA QUE LOS ENLACES A FOTOGRAFIAS DENTRO DE EL "INDEX HTMLw] ESTEN REFERIDOS A IMG
 
 CUALQUIER DUDA YA SABES QUE ESTOY A TU LADO , NO ME SEAS CAPULLO "GRACIAS"
+..................................................................................................................................
 
 - Primeros Pasos -
 
-1. crea la hoja de estilos y importa esta fuente : (https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap)
-2. crea un id en la hoja estilos "body" con un margen de (0) y pon al uso esta fuente {font-family: 'Quicksand', sans-serif;}
-3. crea la regla "#header" con una altura de 100vh y pon la imagen {wp2559457.jpg} de fondo
-4. añade en la clase #header : la posicion de la imagen en el centro y que cubra la hoja .
-5. crea una regla llamada "header h1" y añade los siguientes atributos : - letra blanca
+1. Crea la hoja de estilos y importa esta fuente : (https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap)
+2. Crea un id en la hoja estilos "body" con un margen de (0) y pon al uso esta fuente {font-family: 'Quicksand', sans-serif;}
+3. Crea la regla "#header" con una altura de 100vh y pon la imagen {wp2559457.jpg} de fondo
+4. Añade en el id #header : la posicion de la imagen en el centro y que cubra la hoja .
+5. Crea una regla llamada "header h1" y añade los siguientes atributos : - letra blanca
                                                                          - margen 0
                                                                          - un padding de 0 y 20
                                                                          - el tamaño de la fuente a 50
                                                                          - y un degradado linear de verdes a tu gusto 
 
-6. debajo de "header h1" pega esta linea : {@media only screen and (max-width: 600px}
-7. dentrod e este añade un padding de 0 y 1% tambien cambia el tamaño de la letra a 40px
-8. añade una clase llamada "#main" y dentro añade un padding derecho y izquierdo de 1%
-9. añade una clase llamada "#main p" y dentro modifica el tamaño de la letra a 35px
-10. añade una clase llamada "#main h1" modifica la letra a 35px
-11. añade un slelector de  "h2" y dentro de este pon la letra a 25 px
-12. pega este ultimo trozo de mediaqueries debajo :
+6. Debajo de "header h1" pega esta linea : {@media only screen and (max-width: 600px}
+7. Dentro e este añade un padding de 0 y 1% tambien cambia el tamaño de la letra a 40px
+8. Añade una clase llamada "#main" y dentro añade un padding derecho y izquierdo de 1%
+9. Añade una clase llamada "#main p" y dentro modifica el tamaño de la letra a 35px
+10. Añade una clase llamada "#main h1" modifica la letra a 35px
+11. Añade un slelector de  "h2" y dentro de este pon la letra a 25 px
+12. Pega este ultimo trozo de mediaqueries debajo :
 ```css
 ........................................................................
 @media only screen and (max-width: 600px) {                            |
@@ -54,7 +55,7 @@ iframe{                                                                |
 }                                                                      |
 ........................................................................
 ```
-13. crea una classe llamada "#fother" y añade lo siguiente  :    
+13. crea una regla llamada "#fother" y añade lo siguiente  :    
                                                                 - alineea el texto en el frente
                                                                 - agrega un color blanquecino a tu gusto
                                                                 - establece un fondo negro
