@@ -13,11 +13,13 @@ CUALQUIER DUDA YA SABES QUE ESTOY A TU LADO , NO ME SEAS CAPULLO "GRACIAS"
 2. Crea un id en la hoja estilos "body" con un margen de (0) y pon al uso esta fuente {font-family: 'Quicksand', sans-serif;}
 3. Crea la regla "#header" con una altura de 100vh y pon la imagen {wp2559457.jpg} de fondo
 4. Añade en el id #header : la posicion de la imagen en el centro y que cubra la hoja .
-5. Crea una regla llamada "header h1" y añade los siguientes atributos : - letra blanca
-                                                                         - margen 0
-                                                                         - un padding de 0 y 20
-                                                                         - el tamaño de la fuente a 50
-                                                                         - y un degradado linear de verdes a tu gusto 
+5. Crea una regla llamada "header h1" y añade los siguientes atributos : 
+
+    - letra blanca
+    - margen 0
+    - un padding de 0 y 20
+    - el tamaño de la fuente a 50
+    - y un degradado linear de verdes a tu gusto 
 
 6. Debajo de "header h1" pega esta linea : {@media only screen and (max-width: 600px}
 7. Dentro e este añade un padding de 0 y 1% tambien cambia el tamaño de la letra a 40px
