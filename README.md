@@ -28,7 +28,7 @@ CUALQUIER DUDA YA SABES QUE ESTOY A TU LADO , NO ME SEAS CAPULLO "GRACIAS"
     - y un degradado linear de verdes a tu gusto 
 
 7. *Debajo* de el id"header h1" pega esta linea : {@media only screen and (max-width: 600px}
-8. Dentro de este (id)"header h1" añade un padding de 0 y 1% tambien cambia el tamaño de la letra a 40px
+8. Dentro de este selector combinado de     º"header h1" añade un padding de 0 y 1% tambien cambia el tamaño de la letra a 40px
 9. Añade una id llamado "#main" y dentro añade un padding derecho y izquierdo de 1%
 10. Añade una id llamado "#main p" y dentro modifica el tamaño de la letra a 35px
 11. Añade una clase llamada ".main h1" modifica la letra a 35px
