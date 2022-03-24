@@ -14,9 +14,9 @@ CUALQUIER DUDA YA SABES QUE ESTOY A TU LADO , NO ME SEAS CAPULLO "GRACIAS"
 ```
 {font-family: 'Quicksand', sans-serif;}
 ```
-4. Crea la regla "#header" con una altura de 100vh y pon la imagen {wp2559457.jpg} de fondo
+4. Crea la regla con id "#header" con una altura de 100vh y pon la imagen {wp2559457.jpg} de fondo
 5. Añade en el id #header : la posicion de la imagen en el centro y que cubra la hoja .
-6. Crea una regla llamada "header h1" y añade los siguientes atributos : 
+6. Crea una regla con id llamado "header h1" y añade los siguientes atributos : 
 
     - letra blanca
     - margen 0
@@ -24,12 +24,12 @@ CUALQUIER DUDA YA SABES QUE ESTOY A TU LADO , NO ME SEAS CAPULLO "GRACIAS"
     - el tamaño de la fuente a 50
     - y un degradado linear de verdes a tu gusto 
 
-6. Debajo de "header h1" pega esta linea : {@media only screen and (max-width: 600px}
-7. Dentro e este añade un padding de 0 y 1% tambien cambia el tamaño de la letra a 40px
-8. Añade una clase llamada "#main" y dentro añade un padding derecho y izquierdo de 1%
-9. Añade una clase llamada "#main p" y dentro modifica el tamaño de la letra a 35px
-10. Añade una clase llamada "#main h1" modifica la letra a 35px
-11. Añade un slelector de  "h2" y dentro de este pon la letra a 25 px
+6. *Debajo* de el id"header h1" pega esta linea : {@media only screen and (max-width: 600px}
+7. Dentro de este (id)"header h1" añade un padding de 0 y 1% tambien cambia el tamaño de la letra a 40px
+8. Añade una id llamado "#main" y dentro añade un padding derecho y izquierdo de 1%
+9. Añade una id llamado "#main p" y dentro modifica el tamaño de la letra a 35px
+10. Añade una clase llamada ".main h1" modifica la letra a 35px
+11. Añade un selector llamado "h2" y dentro de este pon la letra a 25 px
 12. Pega este ultimo trozo de mediaqueries debajo :
 ```css
 ........................................................................
